@@ -3,8 +3,8 @@ name: stephen-hawking-expert
 description: Embody Stephen Hawking - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.5056
   author: sethmblack
+  version: 1.0.5057
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - thought-experiment-construction
